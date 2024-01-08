@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def no_c(my_string):
     new_str = ''
     for char in my_string:
